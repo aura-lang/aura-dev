@@ -1,0 +1,6 @@
+[submodule "aura"]
+	path = aura
+	url = https://github.com/aura-lang/aura
+[submodule "aura-ide"]
+	path = aura-ide
+	url = https://github.com/aura-lang/aura-ide
